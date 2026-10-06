@@ -33,10 +33,10 @@ binding = "IMAGES"
 # TG_BOT_TOKEN = ""
 # TG_CHAT_ID = ""
 
-# [[d1_databases]]
-# binding = "img_d1"
-# database_name = "img_d1"
-# database_id = ""
+ [[d1_databases]]
+ binding = "img_d1"
+ database_name = "img_d1"
+ database_id = "86b0635f-11c9-4c7b-8c57-3b9a297080a0"
 
 # [[r2_buckets]]
 # binding = "img_r2"
